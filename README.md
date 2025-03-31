@@ -15,7 +15,10 @@ The **Sales Insights** Power BI report provides a comprehensive analysis of sale
 2. Clone this repository or download the `Sales Insights.pbix` file.
 3. Open `Sales Insights.pbix` in Power BI Desktop.
 4. Explore the interactive dashboards and gain insights.
+   
+![Screenshot 2025-03-31 165836](https://github.com/user-attachments/assets/2244bbcb-ef9b-49a4-9a7d-f66e4ec959fb)
 
+   
 ## Requirements
 - Power BI Desktop (latest version recommended)
 - Dataset connected within the `.pbix` file (ensure data sources are accessible if applicable)
